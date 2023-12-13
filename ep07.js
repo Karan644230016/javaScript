@@ -7,3 +7,4 @@ const data = [10,20,30,40,50]
 const newData = data.slice(1,4,)
 console.log(newData)
 console.log(data)
+console.log(data)
